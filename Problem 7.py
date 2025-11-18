@@ -18,3 +18,5 @@ for i in range(1,500000):
             
 print(prime)
 print(prime[10000])
+
+# i know this is really inefficient but i was stuck on this question for like a solid day so yeah
