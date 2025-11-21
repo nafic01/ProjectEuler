@@ -1,4 +1,4 @@
-# Problem 89
+# Problem 9
 num = 0
 for a in range(1, 1000):
     for b in range(1, 1000):
