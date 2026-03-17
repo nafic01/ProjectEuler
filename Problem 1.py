@@ -15,13 +15,3 @@ print(sum([n**2 for n in range(240000) if n % 2 == 1 ]))
 
 # Solution 3
 print(sum([n for n in range(1000) if n % 3 == 0 or n % 5 == 0]))
-
-
-
-
-
-
-
-
-
-    
